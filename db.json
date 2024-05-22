@@ -3,20 +3,30 @@
     {
       "id": 1,
       "nome": "Yuta",
-      "historia": "hello",
       "descricao": "hello",
       "ligação": "hello"
     },
     {
       "id": 2,
       "nome": "Rika",
-      "historia": "hello",
       "descricao": "hello",
       "ligação": "hello"
     }
   ],
-  "Poderes Copiados": {
+  "Poderes Copiados":[
+  {
+    "name": "typicode",
+    "descricaodopoder": "HELLO"
+  },
+  {
     "name": "typicode",
     "descricaodopoder": "HELLO"
   }
+  ],
+  "Historia":[
+    {
+      "historia": "hello"
+    }
+  ]
 }
+  
