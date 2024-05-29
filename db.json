@@ -15,11 +15,13 @@
   ],
   "Poderes Copiados":[
   {
-    "name": "typicode",
+    "id": 1,
+    "name": "Cópia",
     "descricaodopoder": "HELLO"
   },
   {
-    "name": "typicode",
+    "id": 2,
+    "name": "Fala Amaldiçoada",
     "descricaodopoder": "HELLO"
   }
   ],
